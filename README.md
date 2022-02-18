@@ -1,4 +1,4 @@
-# Article preview component [Live]()
+# Article preview component [Live](https://yhertekin.github.io/article-preview-component/)
 
 ## Desktop
 
@@ -6,4 +6,4 @@
 
 ## Mobile
 
-![mobile image of application](./images/mobile.PNG)
+![mobile image of application](./images/mobile.png)
